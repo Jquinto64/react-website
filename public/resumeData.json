@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name":"John Quinto",
+    "occupation":"aspiring data scientist",
+    "description":"at the University of Waterloo. With my dedication and resourcefulness, I hope to develop AI tools that can innovate healthcare",
+    "image":"profilepic.png",
+    "bio":"As an aspiring biomedical engineer, I'm passionate about using machine learning tools to innovate healthcare and the world at large. This past co-op term, I worked at PerkinElmer Inc, where I helped develop an AI solution for drug discovery. In the summer of 2018, I interned with Sunnybrook's Focused Ultrasound group to help develop treatments for cancer and dementia patients. The following year, I became a summer student at the Schulich Heart Centre, where I co-authored a paper on using MRI to diagnosing heart arrhythmias.",
+    "contactmessage":"Thank you for your time, and I look forward to working with you on future projects.",
+    "email": "jquinto64@gmail.com",
+    "phone": "289-654-4930",
+    "address":{
+      "street":"University of Waterloo",
+      "city":"Waterloo",
+      "state":"Ontario"
+    },
+    "website": "http://www.jquinto64.com",
+    "resumedownload":"https://drive.google.com/file/d/1fQQyrABMGCcpvGdAX_mpIcfDcuP_8Sqd/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/john-quinto/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Jquinto64",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/DxqDeil9x6Cz",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm experienced in Python programming, particularly with the following frameworks:", 
+    "education":[
+      {
+        "school":"University of Waterloo",
+        "degree":"Candidate for BASc in Biomedical Engineering",
+        "graduated":"Class of 2023",
+        "description":"Relevant Courses: Data Structures and Algorithms, Digital Computation, Statistics and Experimental Design, Human Factors in Biomedical Design"
+      }
+    ],
+    "work":[
+      {
+        "company":"PerkinElmer Inc.",
+        "title":"Machine Learning Engineer",
+        "years":"Jan - April 2020",
+        "description":"I worked with a team of 5 to construct a pipeline for identifying the most informative features in high content screening data, with the goal of classifying 4 compounds crucial to drug discovery. I then implemented a deep learning architecture that reduced the number of features from 5000 to 150, while improving model accuracy from 91% to 96%. Lastly, I used model interpretability algorithms to identify biological relationships between features. Technologies Used: SciKit-Learn, Keras, PyTorch, SHAP, Captum"
+      },
+      {
+        "company":"Sunnybrook Research Institute",
+        "title":"Medical Biophysics Summer Student",
+        "years":"May - August 2019",
+        "description":"I co-authored a paper discussing MRI heart models, which was presented to the Society of Cardiac Magnetic Resonance. As part of my project, I developed a GUI that reduced modelling times for finite element heart meshes from 4 hours to 5 minutes. I also used fuzzy C-means clustering to segment scar tissue, with the goal of non-invasively diagnosing heart arrhythmias. Technologies Used: MATLAB, ITK Snap"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"Keras",
+        "level":"80%"
+      },
+      {
+        "name":"SciKit-Learn",
+        "level":"80%"
+      },
+      {
+        "name":"Pytorch/FastAI",
+        "level":"70%"
+      },
+      {
+        "name":"Tensorflow",
+        "level":"50%"
+      },
+      {
+        "name":"Pandas",
+        "level":"80%"
+      },
+      {
+        "name":"MATLAB",
+        "level":"60%"
+      },
+      {
+        "name":"C++",
+        "level":"60%"
+      },
+      {
+        "name":"C#",
+        "level":"70%"
+      },
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"PsychNet",
+        "category":"A web app that uses AI to screen online mental health",
+        "image":"canadian-wanderlust.png",
+        "url":"https://psychonet.azurewebsites.net/"
+      },
+      {
+        "title":"Android Pokedex",
+        "category":"Live detection of Pokemon using your phone camera",
+        "image":"Generation_I_Pokedex.png",
+        "url":"https://github.com/Jquinto64/Pokedex"
+      },
+      {
+        "title":"Antidote (HTN 2019)",
+        "category":"A search engine that predicts novel drug therapies",
+        "image":"gallery.jpg",
+        "url":"https://devpost.com/software/antidote-ci97sv"
+      },
+      {
+        "title":"Poster Website",
+        "category":"A website showcasing my research with the University of Toronto's department of Medical Biophysics",
+        "image":"Capture.png",
+        "url":"https://jquinto13.pythonanywhere.com/sunny_poster/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"John was one of the most dependable coop students we’ve ever had. He consistently delivered excellent quality of work while coming up with creative solutions for feature selection using machine learning. John was extremely driven and self-motivated to research and explore unfamiliar architectures to solve our problem, all with minimal guidance. I was very impressed with his diligence, initiative and his ability to take ownership of his work and I could always count on him to find a solution regardless of the challenges or limitations faced. John was an absolute pleasure to work with and I highly recommend him for any research or engineering role in machine learning or software development.",
+        "user":"Adrian Bar - ML Developer at PerkinElmer Inc"
+      }
+    ]
+  }
+}
