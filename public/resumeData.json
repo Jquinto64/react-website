@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"John Quinto",
-    "occupation":"aspiring data scientist",
-    "description":"at the University of Waterloo. With my dedication and resourcefulness, I hope to develop AI tools that can innovate healthcare",
+    "occupation":"aspiring machine learning developer",
+    "description":"at the University of Waterloo. With my dedication and resourcefulness, I hope to develop AI tools that change the way we see the world",
     "image":"profilepic.png",
-    "bio":"As an aspiring biomedical engineer, I'm passionate about using machine learning tools to innovate healthcare and the world at large. This past co-op term, I worked at PerkinElmer Inc, where I helped develop an AI solution for drug discovery. In the summer of 2018, I interned with Sunnybrook's Focused Ultrasound group to help develop treatments for cancer and dementia patients. The following year, I became a summer student at the Schulich Heart Centre, where I co-authored a paper on using MRI to diagnosing heart arrhythmias.",
+    "bio":"As an aspiring AI developer, I'm passionate about using machine learning tools to innovate the world at large. This past co-op term, I worked at Environment and Climate Change Canada (ECCC), where I used deep learning to predict precipitation type from time series data. I also worked at PerkinElmer Inc, where I helped develop an AI solution for drug discovery. In the summer of 2018, I interned with Sunnybrook's Focused Ultrasound group to help develop treatments for cancer and dementia patients. The following year, I became a summer student at the Schulich Heart Centre, where I co-authored a paper on using MRI to diagnosing heart arrhythmias.",
     "contactmessage":"Thank you for your time, and I look forward to working with you on future projects.",
     "email": "jquinto64@gmail.com",
     "phone": "289-654-4930",
@@ -45,6 +45,12 @@
     ],
     "work":[
       {
+        "company":"Environment Canada and Climate Change (ECCC)",
+        "title":"Junior Data Scientist",
+        "years":"Sept - Dec 2020",
+        "description":" At ECCC, I co-authored a paper detailing the use of machine learning to predict precipitation type, which will be presented at the 2021 General Assembly of the European Geosciences Union (vEGU21). I designed GRU and LSTM models to infer precipitation type from time series atmospheric data, improving classification accuracy from 66% to 91%. I also built a regression model to predict snowfall from time series temperature data, which was applied to 7620 stations across North America. All of this involved writing data cleaning and data visualization scripts for 4 meteorological datasets, each comprising over 1 million data points. Technologies Used: SciKit-Learn, Keras, SciPy, Pandas"
+      },
+      {
         "company":"PerkinElmer Inc.",
         "title":"Machine Learning Engineer",
         "years":"Jan - April 2020",
@@ -60,14 +66,22 @@
     "skills":[
       {
         "name":"Python",
-        "level":"70%"
+        "level":"90%"
       },
       {
         "name":"Keras",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"SciKit-Learn",
+        "level":"90%"
+      },
+      {
+        "name":"Pandas",
+        "level":"90%"
+      },
+      {
+        "name":"MATLAB",
         "level":"80%"
       },
       {
@@ -76,15 +90,7 @@
       },
       {
         "name":"Tensorflow",
-        "level":"50%"
-      },
-      {
-        "name":"Pandas",
-        "level":"80%"
-      },
-      {
-        "name":"MATLAB",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"C++",
@@ -96,11 +102,11 @@
       },
       {
         "name":"Git",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"SQL",
-        "level":"60%"
+        "level":"70%"
       }
     ]
   },
