@@ -45,6 +45,12 @@
     ],
     "work":[
       {
+        "company":"Nuralogix",
+        "title":"Data Science Software Developer",
+        "years":"May 2021 - Present",
+        "description":" At Nuralogix, I trained a transformer-based neural network to predict blood pressure from facial biomarkers, which achieved 5% lower root-mean squared error (RMSE) than previous regression models. I also implemented a feature selection method that cut computation times from 6 hours to 10 minutes, while reducing the error of an XGBoost ensemble by 6%. Moreover, I developed a CNN-based facial recognition and face clustering pipeline that identified unique participants in the training and testing datasets with an accuracy of 99.8%. Lastly, I used the unique participants from the face clustering pipeline to design a bias correction procedure that decreased model RMSE by an average of 18% per participant. Technologies used: PyTorch, XGBoost, CuPy, InsightFace, ONNX, NetworkX, OpenCV, Pandas, Numpy, Scipy"
+      },
+      {
         "company":"Environment Canada and Climate Change (ECCC)",
         "title":"Junior Data Scientist",
         "years":"Sept - Dec 2020",
@@ -86,15 +92,15 @@
       },
       {
         "name":"Pytorch/FastAI",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"Tensorflow",
-        "level":"70%"
+        "level":"90%"
       },
       {
         "name":"C++",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"C#",
@@ -145,8 +151,12 @@
         "user":"Adrian Bar - ML Developer at PerkinElmer Inc"
       },
       {
-        "text":"“John was able to quickly get up to speed and to learn working with data from a different domain knowledge area. He was able independently to find the information he needed to develop and validate deep learning models, and then delivered impressive research results on a tight schedule. I highly recommend him.”",
+        "text":"John was able to quickly get up to speed and to learn working with data from a different domain knowledge area. He was able independently to find the information he needed to develop and validate deep learning models, and then delivered impressive research results on a tight schedule. I highly recommend him.",
         "user":"Dominique Brunet - Research Scientist at ECCC"
+      },
+      {
+	"text": "John did a fantastic job and exceeded our expectations in almost all aspects. He introduced a new feature selection method that accelerated our model training pipeline significantly, which impressed everyone, he also worked on many other difficult tasks and consistently delivered outstanding work in a timely manner. It's a great pleasure to work with such a smart and diligent young man.",
+	"user":"Paul Zheng - Chief Researcher at Nuralogix"
       }
     ]
   }
