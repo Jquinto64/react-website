@@ -135,6 +135,12 @@
         "category":"A search engine that predicts novel drug therapies",
         "image":"gallery.jpg",
         "url":"https://devpost.com/software/antidote-ci97sv"
+      },
+      {
+        "title":"Poster Website",
+        "category":"A website showcasing my research with the University of Toronto's department of Medical Biophysics",
+        "image":"Capture.png",
+        "url":"https://jquinto13.pythonanywhere.com/sunny_poster/"
       }
     ]
   },
