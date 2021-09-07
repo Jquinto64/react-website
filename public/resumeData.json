@@ -122,7 +122,7 @@
         "title":"PsychNet",
         "category":"A web app that uses AI to screen online mental health",
         "image":"canadian-wanderlust.png",
-        "url":"https://psychonet.azurewebsites.net/"
+        "url":"https://psychnet.azurewebsites.net/"
       },
       {
         "title":"Android Pokedex",
@@ -135,12 +135,6 @@
         "category":"A search engine that predicts novel drug therapies",
         "image":"gallery.jpg",
         "url":"https://devpost.com/software/antidote-ci97sv"
-      },
-      {
-        "title":"Poster Website",
-        "category":"A website showcasing my research with the University of Toronto's department of Medical Biophysics",
-        "image":"Capture.png",
-        "url":"https://jquinto13.pythonanywhere.com/sunny_poster/"
       }
     ]
   },
